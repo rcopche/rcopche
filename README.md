@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 ## Habilidades
 
-*   **Linguagens:** JavaScript, HTML, Shell
+*   **Linguagens:** JavaScript, HTML, Shell, C#, Java, Kotlin
 *   **Frameworks/Bibliotecas:** Node.js
 *   **Ferramentas:** Git, GitHub
 
